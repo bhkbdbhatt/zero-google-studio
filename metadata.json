@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Cost Forever Gemini Agent Studio",
+  "description": "Quota-aware multi-tiered cascade architecture dashboard and prompt generator for running AI agents forever for $0 on Google Gemini API free tier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
